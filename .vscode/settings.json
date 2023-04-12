@@ -1,0 +1,5 @@
+{
+    "pester.autoDebugOnSave": true,
+    "testExplorer.addToEditorContextMenu": true,
+    "pester.workingDirectory": "$PSScriptRoot"
+}

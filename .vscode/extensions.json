@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "zrnatoneto.dark-green",
+        "pspester.pester-test",
+        "hbenl.vscode-test-explorer",
+        "ms-vscode.test-adapter-converter",
+        "tylerleonhardt.vscode-pester-test-adapter"
+    ]
+}
