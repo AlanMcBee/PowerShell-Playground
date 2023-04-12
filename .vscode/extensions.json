@@ -4,6 +4,8 @@
         "pspester.pester-test",
         "hbenl.vscode-test-explorer",
         "ms-vscode.test-adapter-converter",
-        "tylerleonhardt.vscode-pester-test-adapter"
+        "tylerleonhardt.vscode-pester-test-adapter",
+        "gruntfuggly.todo-tree",
+        "britesnow.vscode-toggle-quotes"
     ]
 }
